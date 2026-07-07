@@ -124,6 +124,7 @@ Revenue At Risk continued rising ($9.0K → $9.6K) even as churn rate fell 22% i
 6. Screenshots
 (https://github.com/mrpriyesh01/Customer-Churn-Risk-Analysis-/blob/main/dashboard.png)
 Page 1 — Main Dashboard:
+https://github.com/mrpriyesh01/Customer-Churn-Risk-Analysis-/blob/main/dashboard.png
 
 KPI cards, Churn by Month, Contract/Payment charts, Demographic breakdown
 
