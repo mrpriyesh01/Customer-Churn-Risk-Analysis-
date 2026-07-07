@@ -11,8 +11,6 @@ The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop — Main data visualization platform used for report creation and interactive dashboard design
 📂 Power Query — Data transformation layer used to build the Calendar table, verify data types, and prepare date-based analysis
 🧠 DAX (Data Analysis Expressions) — Used for calculated measures (Churn Rate, Revenue At Risk, Avg Tenure), calculated columns (Risk Score, Risk Label, Tenure Bucket), time intelligence (PM/3M/6M/12M/YTD), and dynamic HTML visual generation
-🎨 HTML/CSS Visual — Custom SaaS-style risk cards and top customer table rendered natively inside Power BI using HTML Content visual with CONCATENATEX and TOPN
-🔢 SQL (MySQL Workbench) — 10 analytical queries written to validate dashboard findings — churn by contract, payment method, tenure, senior citizen, Partner+Dependents combined analysis
 📁 File Format — .pbix for development, .csv as data source
 📝 Data Modeling — Star schema with fact table (Telco_Churn), Calendar table, Time Period table, and Field Parameter tables for dynamic visual switching
 
