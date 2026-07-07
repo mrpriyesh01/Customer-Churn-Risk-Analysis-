@@ -121,16 +121,12 @@ Customers with neither a partner nor dependents churn at 34.24% vs 14.24% for th
 6. Leading Indicator Discovery
 Revenue At Risk continued rising ($9.0K → $9.6K) even as churn rate fell 22% in Q4 — revealing that reported churn improvement masked a growing pool of at-risk active customers. This demonstrates the value of tracking multiple KPIs simultaneously rather than relying on a single metric.
 
-6. Screenshots
-(https://github.com/mrpriyesh01/Customer-Churn-Risk-Analysis-/blob/main/dashboard.png)
 Page 1 — Main Dashboard:
 https://github.com/mrpriyesh01/Customer-Churn-Risk-Analysis-/blob/main/dashboard.png
 
 KPI cards, Churn by Month, Contract/Payment charts, Demographic breakdown
 
-Page 2 — Customer Priority List:
 
-Risk tier cards, filterable customer table, top high-risk customers
 
 
 
